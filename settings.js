@@ -40,7 +40,7 @@ global.vsJB = '5.0'
 global.nameqr = 'RagnaBot'
 global.namebot = 'RagnaBot'
 global.sessions = 'RagnaSession'
-global.jadi = 'RagnaJadiBot'
+global.jadi = 'MiniJadiBot'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
